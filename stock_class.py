@@ -6,7 +6,7 @@
 #class Stock
 class Stock:
     def __init__(self, symbol, name, shares):
-        #constructor variables - Stock
+        #constructor attributes - Stock
         self.symbol = symbol
         self.name = name
         self.shares = shares
@@ -19,7 +19,7 @@ class Stock:
 #class DailyData    
 class DailyData:
     def __init__(self, date, close, volume):
-        #constructor variables - Daily Data
+        #constructor attributes - Daily Data
         self.date = date
         self.close = close
         self.volume = volume
