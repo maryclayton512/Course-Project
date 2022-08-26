@@ -7,7 +7,6 @@
   - Beautiful Soup
   - Selenium
   - CSV
-  - SQLite3
   - Pandas
   - DateTime
   - OS

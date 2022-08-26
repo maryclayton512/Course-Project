@@ -5,7 +5,7 @@
 
 #class Stock
 class Stock:
-    def __init__(self, symbol, name, shares):
+    def __init__(self, symbol= 'None', name= 'None', shares = 0):
         #constructor attributes - Stock
         self.symbol = symbol
         self.name = name
