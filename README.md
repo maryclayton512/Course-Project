@@ -12,9 +12,14 @@
   - OS
   - Tkinter
   
-  ## Class Diagram
-  I created a table diagram in Visio laying out the classes and their functions. In this example, DailyData is connected to Stock class.
-  ![image](https://user-images.githubusercontent.com/108701384/178635055-b2137e8c-5787-4c9d-9b75-9e312ba96fe2.png)
+## Class Diagram
+I created a table diagram in Visio laying out the classes and their functions. In this example, DailyData is connected to Stock class.
+![Screenshot](ClassDiagram.jpg)
+    
+## Additional Screenshots
+![Screenshot](Figure_1.png)
+![Screenshot](GUI_StockChart.png)
+
 
   
   
